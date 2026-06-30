@@ -1,0 +1,19 @@
+# Byte-compiled / packaging
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+.env.*
+
+# Virtual environments
+venv/
+.env/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
